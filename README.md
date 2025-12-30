@@ -60,8 +60,12 @@ Visit the live application and start calculating:
 ### Calculator Interface
 Here's a glimpse of the Numeric Translator interface:
 
+![Calculator Dashboardimg1](https://raw.githubusercontent.com/Avijit-roy/Numeric_translator/refs/heads/main/screenshots/Screenshot_20221126_094507.png)
+![Calculator Dashboardimg2](https://raw.githubusercontent.com/Avijit-roy/Numeric_translator/refs/heads/main/screenshots/Screenshot_20221126_093850.png)
+![Calculator Dashboardimg3](https://raw.githubusercontent.com/Avijit-roy/Numeric_translator/refs/heads/main/screenshots/Screenshot_20221126_094006.png)
+![Calculator Dashboardimg3](https://raw.githubusercontent.com/Avijit-roy/Numeric_translator/refs/heads/main/screenshots/Screenshot_20221126_094728.png)
 
-https://raw.githubusercontent.com/Avijit-roy/Numeric_translator/refs/heads/main/screenshots/Screenshot_20221126_094507.png
+
 
 **Features in action:**
 - Clean, organized navigation menu
