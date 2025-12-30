@@ -60,9 +60,8 @@ Visit the live application and start calculating:
 ### Calculator Interface
 Here's a glimpse of the Numeric Translator interface:
 
-```
-[Dashboard showing all 17 calculator options]
-```
+
+https://raw.githubusercontent.com/Avijit-roy/Numeric_translator/refs/heads/main/screenshots/Screenshot_20221126_094507.png
 
 **Features in action:**
 - Clean, organized navigation menu
